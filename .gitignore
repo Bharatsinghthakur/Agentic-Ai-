@@ -1,3 +1,15 @@
+<<<<<<< HEAD
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+=======
 # Created by https://www.toptal.com/developers/gitignore/api/python,macos,visualstudiocode,dotenv
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,macos,visualstudiocode,dotenv
 
@@ -232,3 +244,4 @@ pyrightconfig.json
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/python,macos,visualstudiocode,dotenv
+>>>>>>> e0ea2ac1515655ca000b1334e86583ef6509d27a
