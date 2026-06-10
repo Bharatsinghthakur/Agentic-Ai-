@@ -7,4 +7,4 @@ langchain-google-genai
 langgraph
 langchain
 langsmith
-
+langchain_tavily
